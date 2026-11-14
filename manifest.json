@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-13T19:45:33.975Z",
+  "updatedAt": "2026-11-14T18:09:14.810Z",
   "sources": {
     "CEIS": {
       "date": "20261113",
       "source": "https://portaldatransparencia.gov.br/download-de-dados/ceis/20261113",
-      "sha256": "28a89a146a0b7fe3b63c258dd20095753db63ded699358a90c3670047dd23040",
-      "bytes": 3502802
+      "sha256": "466e0c1f53f9dc0bec80c71c893bea2fa00c54bb8ccfdd7c386bf032c45fd605",
+      "bytes": 3495574
     },
     "CNEP": {
       "date": "20261113",
       "source": "https://portaldatransparencia.gov.br/download-de-dados/cnep/20261113",
-      "sha256": "0ee1b63d493195c30526ef7dec107b48422df421a1c74c365af393aa26cda1a2",
-      "bytes": 207885
+      "sha256": "e8feac9eb0da21d5d72a265336a2dd8f206dcc9630ea016c0b8bd9648cabba5f",
+      "bytes": 207625
     }
   }
 }
